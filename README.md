@@ -1,5 +1,7 @@
 # missile-alert
 
+![Missile Alert App](screenshot.png)
+
 Updates your Slack status when a Tseva Adom (Red Alert) is detected in Israel. Restores your previous status 10 minutes after the last alert.
 
 ## Setup
